@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="SharpShark.AboutBox" Collapsed="true">
+    <Position X="3" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kIACAAgAACAACAUAQACAAAADAAAAEIAAAAAAAAAAAAA=</HashCode>
+      <FileName>AboutBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SharpShark.configClass" Collapsed="true">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAIYAAQAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>configClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SharpShark.configForm" Collapsed="true">
+    <Position X="2.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAGAIAAiAAACAAAACEEAAACAAAAAgAAAAAAA=</HashCode>
+      <FileName>configForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SharpShark.filterClass" Collapsed="true">
+    <Position X="4.75" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAoAAAAABAAAAAAAAAAAAAUAAAAA=</HashCode>
+      <FileName>filterClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SharpShark.filterForm" Collapsed="true">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACIQAEAAhCAMAQQAIACCAAECAEgACBEABCEABAAAAAA=</HashCode>
+      <FileName>filterForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SharpShark.mainForm" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEApAIhCAaRsZIIAAgCAAACSDRIS0AAQQQEIBQEAgAQ=</HashCode>
+      <FileName>mainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SharpShark.packetInfoDetailForm" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAIAAOAGQIACAAAAKAQECCAAABggAAAQQgAICAAII=</HashCode>
+      <FileName>packetInfoDetail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SharpShark.PacketToNodeClass" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAIAA=</HashCode>
+      <FileName>PacketToNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SharpShark.Program" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SharpShark.statisticForm" Collapsed="true">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAIAAAACAGQAEQAAAAiAIAACAAAAABAAAAAAAAaAAAA=</HashCode>
+      <FileName>statisticForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SharpShark.utility" Collapsed="true">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBACAAAAAAAAAAAIAAAAACAEABAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>utility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="SharpShark.filter" Collapsed="true">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>filterClass.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="宋体" Size="9" />
+</ClassDiagram>
